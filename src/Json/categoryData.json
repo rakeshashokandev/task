@@ -1,0 +1,42 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "Fresh Fruits & Vegtables",
+            "color": "#53B1751A",
+            "image":"cat1.png"
+
+        },
+        {
+            "id": 2,
+            "name": "Cooking Oil & Gee",
+            "color": "#F8A44CB2",
+            "image":"cat2.png"
+        },
+        {
+            "id": 3,
+            "name": "Meat & Fish",
+            "color": "#F7A59340",
+            "image":"cat3.png"
+
+        },
+        {
+            "id": 4,
+            "name": "Bakery & Snacks",
+            "color": "#FDE598",
+            "image":"cat4.png"
+        },
+        {
+            "id": 5,
+            "name": "Dairy & Eggs",
+            "color": "#B7DFF5",
+            "image":"cat5.png"
+        },
+        {
+            "id": 6,
+            "name": "Beverages",
+            "color": "#F7A593",
+            "image":"cat6.png"
+        }
+    ]
+}

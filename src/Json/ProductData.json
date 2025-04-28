@@ -1,0 +1,84 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "Natural Red Apple",
+            "price": 250,
+            "price_desc": "1 Kg, Price",
+            "Product_deatils": "Apples are nutritious. Apples may be good for weight loss. Apples may be good for your heart. As part of a healthful and varied diet.",
+            "nutritions": "100gr",
+            "reviews": 5,
+            "images": "pro1.png"
+        },
+        {
+            "id": 2,
+            "name": "Fresh Banana",
+            "price": 60,
+            "price_desc": "1 Dozen, Price",
+            "Product_deatils": "Bananas are rich in potassium and fiber. They help in digestion and support heart health.",
+            "nutritions": "120gr",
+            "reviews": 4.8,
+            "images": "pro2.png"
+        },
+        {
+            "id": 3,
+            "name": "Juicy Mango",
+            "price": 300,
+            "price_desc": "1 Kg, Price",
+            "Product_deatils": "Mangoes are rich in vitamins A and C. They boost immunity and improve digestion.",
+            "nutritions": "150gr",
+            "reviews": 4.7,
+            "images": "pro3.png"
+        },
+        {
+            "id": 4,
+            "name": "Organic Grapes",
+            "price": 200,
+            "price_desc": "500g, Price",
+            "Product_deatils": "Grapes are rich in antioxidants. They support heart health and boost brain function.",
+            "nutritions": "90gr",
+            "reviews": 4.6,
+            "images": "pro4.png"
+        },
+        {
+            "id": 5,
+            "name": "Fresh Pineapple",
+            "price": 150,
+            "price_desc": "1 Piece, Price",
+            "Product_deatils": "Pineapples aid digestion and help reduce inflammation due to their high bromelain content.",
+            "nutritions": "250gr",
+            "reviews": 4.5,
+            "images": "pro5.png"
+        },
+        {
+            "id": 6,
+            "name": "Sweet Strawberries",
+            "price": 350,
+            "price_desc": "500g, Price",
+            "Product_deatils": "Strawberries are packed with antioxidants and vitamins, promoting skin and heart health.",
+            "nutritions": "110gr",
+            "reviews": 4.9,
+            "images": "pro6.png"
+        },
+        {
+            "id": 7,
+            "name": "Fresh Oranges",
+            "price": 180,
+            "price_desc": "1 Kg, Price",
+            "Product_deatils": "Oranges are an excellent source of vitamin C, boosting immunity and promoting skin health.",
+            "nutritions": "130gr",
+            "reviews": 4.8,
+            "images": "pro7.png"
+        },
+        {
+            "id": 8,
+            "name": "Tasty Watermelon",
+            "price": 90,
+            "price_desc": "1 Kg, Price",
+            "Product_deatils": "Watermelon is hydrating and contains antioxidants that support overall health.",
+            "nutritions": "200gr",
+            "reviews": 4.7,
+            "images": "pro8.png"
+        }
+    ]
+}
